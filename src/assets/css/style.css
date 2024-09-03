@@ -1,0 +1,4 @@
+.btn {
+    @apply h-[52px] px-[80px] rounded-full border-solid border-[1px] border-Mercury text-[16px] font-medium;
+}
+
